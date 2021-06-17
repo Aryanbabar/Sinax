@@ -1,0 +1,680 @@
+/* ------xtra-large device medis css start-------  */
+@media(min-width:1400px){
+    .testm-details i {
+        color: #fff;
+        font-size: 32px;
+        margin-left: 378px;
+    }
+    .video-content h3 {
+        font-size: 52px;
+        line-height: 54px;
+    }
+
+}
+/* ------large device medis css start-------  */
+@media(min-width:992px) and (max-width:1199.98px){
+    /* testimonials-area media css start  */
+    .testm-details i {
+        color: #fff;
+        font-size: 32px;
+        margin-left: 208px;
+    }
+    /* video-area media css start  */
+    .video-content h3 {
+        font-size: 44px;
+        line-height: 52px;
+    }
+    /* blog-area media css start  */
+    .blog-details {
+        padding: 30px 18px 30px;
+    }
+    .blog-details h4 {
+        font-size: 19px;
+        line-height: 26px;
+    }
+    /* footer-area media css start  */
+    .footer-box i {
+        padding: 12px 16px;
+    }
+}
+
+/* ------medium device medis css start-------  */
+@media(min-width:768px) and (max-width:991.98px){
+    /* navber-area media css start  */
+    .navbar {
+        padding-top: 11px;
+        padding-bottom: 11px;
+    }
+    .navbar-toggler i {
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+        background: #fff;
+        border-radius: 3px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-brand img {
+        width: 100px;
+    }
+    .navbar-nav {
+        background: #000;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        display: inline-block;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        bottom: 6px;
+    }
+    /* banner-area media css start  */
+    .banner-item1 {
+        height: 75vh;
+    }
+    .banner-item2 {
+        height: 75vh;
+    }
+    .banner-item3 {
+        height: 75vh;
+    }
+    .banner-content h1 {
+        font-size: 64px;
+        line-height: 72px;
+    }
+    .banner-icons .left-arrow {
+        font-size: 18px;
+        top: 60%;
+    }
+    .banner-icons .right-arrow {
+        font-size: 18px;
+        top: 60%;
+    }
+    /* about-area media css start  */
+    #about {
+        padding: 65px 0;
+    }
+    .about-item p {
+        line-height: 22px;
+        padding-bottom: 0px;
+    }
+    /* portfolio-area media css start  */
+    #portfolio {
+        padding-top: 65px;
+    }
+    #portfolio .head {
+        padding-bottom: 40px;
+    }
+    /* testimonials-area media css start  */
+    #testimonials {
+        padding-top: 100px;
+        padding-bottom: 60px;
+    }
+    #testimonials .head {
+        padding-bottom: 40px;
+    }
+    .testimonials-item {
+        margin-bottom: 20px;
+    }
+    .testm-details i {
+        color: #fff;
+        font-size: 32px;
+        margin-left: 440px;
+    }
+    /* video-area media css start  */
+    #video {
+        padding-top: 175px;
+        padding-bottom: 130px;
+    }
+    .video-content h3 {
+        font-size: 44px;
+        line-height: 52px;
+    }
+    /* team-area media css start  */
+    #team {
+        padding-top: 65px;
+        padding-bottom: 50px;
+    }
+    #team .head {
+        padding-bottom: 45px;
+    }
+    /* servie-area media css start  */
+    #service {
+        padding-top: 65px;
+        padding-bottom: 60px;
+    }
+    #service .head {
+        padding-bottom: 50px;
+    }
+    .service-item {
+        padding: 25px 15px 25px;
+        margin-bottom: 24px;
+    }
+    .service-item p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    /* blog-area media css start  */
+    #blog {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+    #blog .head {
+        padding-bottom: 50px;
+    }
+    .blog-details {
+        padding: 30px 18px 30px;
+    }
+    .blog-details h4 {
+        line-height: 26px;
+    }
+    .blog-details h5 {
+        padding-bottom: 10px;
+        line-height: 20px;
+    }
+    .blog-details p {
+        line-height: 22px;
+        padding-bottom: 20px;
+    }
+    /* brand-area media css start  */
+    #brand {
+        padding: 60px 0;
+    }
+    /* footer-area media css start  */
+    #footer {
+        padding: 70px 0 45px;
+    }
+    .footer-main p {
+        line-height: 22px;
+    }
+    .footer-social-icon {
+        margin-bottom: 30px;
+    }
+    .footer-details p {
+        line-height: 22px;
+    }
+    .footer-box i {
+        padding: 12px 18px;
+    }
+    /* copyright-area media css start  */
+    .copyright-content p {
+        text-align: center;
+        line-height: 45px;
+    }
+    .footer-menu ul {
+        justify-content: center;
+    }
+    .footer-menu ol, ul {
+        padding-left: 0rem;
+    }
+    .footer-menu ul li a {
+        padding-left: 13px;
+    }
+}
+
+
+
+/* ------small device medis css start-------  */
+@media(min-width:576px) and (max-width:767.98px){
+    /* navber-area media css start  */
+    .navbar {
+        padding-top: 11px;
+        padding-bottom: 11px;
+    }
+    .navbar-toggler i {
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+        background: #fff;
+        border-radius: 3px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-brand img {
+        width: 100px;
+    }
+    .navbar-nav {
+        background: #000;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        display: inline-block;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        bottom: 6px;
+    }
+    /* banner-area media css start  */
+    .banner-item1 {
+        height: 65vh;
+    }
+    .banner-item2 {
+        height: 65vh;
+    }
+    .banner-item3 {
+        height: 65vh;
+    }
+    .banner-content h1 {
+        font-size: 48px;
+        line-height: 53px;
+    }
+    .banner-icons .left-arrow {
+        font-size: 18px;
+        top: 59%;
+    }
+    .banner-icons .right-arrow {
+        font-size: 18px;
+        top: 59%;
+    }
+    /* about-area media css start  */
+    #about {
+        padding: 60px 0;
+    }
+    .about-item {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .about-item h4 {
+        font-size: 18px;
+    }
+    .about-item p {
+        line-height: 20px;
+        padding-bottom: 0px;
+    }
+    /* portfolio-area media css start  */
+    #portfolio {
+        padding-top: 65px;
+    }
+    #portfolio .head {
+        padding-bottom: 40px;
+    }
+    /* testimonials-area media css start  */
+    #testimonials {
+        padding-top: 100px;
+        padding-bottom: 60px;
+    }
+    #testimonials .head {
+        padding-bottom: 40px;
+    }
+    .testimonials-item {
+        padding-top: 36px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-bottom: 20px;
+    }
+    /* video-area media css start  */
+    #video {
+        padding-top: 160px;
+        padding-bottom: 130px;
+    }
+    .video-content h3 {
+        font-size: 33px;
+        line-height: 42px;
+    }
+    /* team-area media css start  */
+    #team {
+        padding-top: 65px;
+        padding-bottom: 50px;
+    }
+    #team .head {
+        padding-bottom: 45px;
+    }
+    /* servie-area media css start  */
+    #service {
+        padding-top: 65px;
+        padding-bottom: 60px;
+    }
+    #service .head {
+        padding-bottom: 50px;
+    }
+    .service-item {
+        padding: 25px 15px 25px;
+        margin-bottom: 24px;
+    }
+    .service-item p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    /* blog-area media css start  */
+    #blog {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+    #blog .head {
+        padding-bottom: 50px;
+    }
+    .blog-details {
+        padding: 30px 18px 30px;
+    }
+    .blog-details h4 {
+        line-height: 26px;
+    }
+    .blog-details h5 {
+        padding-bottom: 10px;
+        line-height: 20px;
+    }
+    .blog-details p {
+        line-height: 22px;
+        padding-bottom: 20px;
+    }
+    /* brand-area media css start  */
+    #brand {
+        padding: 60px 0;
+    }
+    /* footer-area media css start  */
+    #footer {
+        padding: 50px 0 45px;
+    }
+    .footer-main p {
+        line-height: 22px;
+    }
+    .footer-social-icon {
+        margin-bottom: 30px;
+    }
+    .footer-details p {
+        line-height: 22px;
+    }
+    .footer-box i {
+        padding: 12px 18px;
+    }
+    /* copyright-area media css start  */
+    .copyright-content p {
+        text-align: center;
+        line-height: 40px;
+    }
+    .footer-menu ul {
+        justify-content: center;
+    }
+    .footer-menu ol, ul {
+        padding-left: 0rem;
+    }
+    .footer-menu ul li a {
+        padding-left: 13px;
+    }
+}
+
+
+
+
+
+/* ------xtra-small device medis css start-------  */
+@media(max-width:575.98px){
+    /* navber-area media css start  */
+    .navbar {
+        padding-top: 11px;
+        padding-bottom: 11px;
+    }
+    .navbar-toggler i {
+        width: 40px;
+        height: 40px;
+        font-size: 24px;
+        background: #fff;
+        border-radius: 3px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-brand img {
+        width: 100px;
+    }
+    .navbar-nav {
+        background: #000;
+        text-align: center;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0;
+        padding-top: 11px;
+        padding-bottom: 11px;
+        display: inline-block;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link::after {
+        bottom: 6px;
+    }
+
+    /* banner-area media css start  */
+    .banner-item1 {
+        height: 65vh;
+    }
+    .banner-item2 {
+        height: 65vh;
+    }
+    .banner-item3 {
+        height: 65vh;
+    }
+    .banner-content p {
+        font-size: 17px;
+        padding-bottom: 9px;
+    }
+    .banner-content h1 {
+        font-size: 32px;
+        line-height: 35px;
+    }
+    .banner-content a {
+        padding: 16px 45px;
+    }
+    .banner-icons .left-arrow {
+        font-size: 18px;
+        top: 58%;
+        left: 5px;
+    }
+    .banner-icons .right-arrow {
+        font-size: 18px;
+        top: 58%;
+        right: 5px;
+    }
+    /* about-area media css start  */
+    #about {
+        padding: 60px 0;
+    }
+    .about-item {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .about-item p {
+        line-height: 22px;
+        padding-bottom: 0px;
+    }
+    /* portfolio-area media css start  */
+    #portfolio {
+        padding-top: 65px;
+    }
+    .head h2 {
+        font-size: 38px;
+        padding-bottom: 12px;
+        line-height: 40px;
+    }
+    .head p {
+        line-height: 22px;
+    }
+    #portfolio .head {
+        padding-bottom: 40px;
+    }
+    .port-navber button {
+        font-size: 14px;
+        padding-right: 13px;
+    }
+    /* testimonials-area media css start  */
+    #testimonials {
+        padding-top: 100px;
+        padding-bottom: 60px;
+    }
+    #testimonials .head {
+        padding-bottom: 40px;
+    }
+    .testimonials-item {
+        padding-top: 36px;
+        padding-bottom: 20px;
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 15px;
+    }
+    .testimonials-item p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .testm-details i {
+        color: #fff;
+        font-size: 32px;
+        margin-left: 250%;
+    }
+    /* video-area media css start  */
+    #video {
+        padding-top: 130px;
+        padding-bottom: 130px;
+    }
+    .video-content h3 {
+        font-size: 31px;
+        line-height: 40px;
+    }
+    /* team-area media css start  */
+    #team {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    #team .head {
+        padding-bottom: 45px;
+    }
+    /* servie-area media css start  */
+    #service {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    #service .head {
+        padding-bottom: 50px;
+    }
+    .service-item {
+        padding: 25px 15px 25px;
+        margin-bottom: 24px;
+    }
+    .service-item h4 {
+        font-size: 18px;
+        padding-bottom: 12px;
+        padding-top: 0px;
+        line-height: 22px;
+    }
+    .service-item p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    /* counter-area media css start  */
+    #counter {
+        padding-top: 50px;
+        padding-bottom: 5px;
+    }
+    .counter-item {
+        margin-bottom: 40px;
+    }
+    /* blog-area media css start  */
+    #blog {
+        padding-top: 65px;
+        padding-bottom: 65px;
+    }
+    #blog .head {
+        padding-bottom: 50px;
+    }
+    .blog-details {
+        padding: 30px 18px 30px;
+    }
+    .blog-details h4 {
+        line-height: 26px;
+    }
+    .blog-details h5 {
+        padding-bottom: 10px;
+    }
+    .blog-details p {
+        line-height: 22px;
+        padding-bottom: 20px;
+    }
+    /* brand-area media css start  */
+    #brand {
+        padding: 45px 0;
+    }
+    /* footer-area media css start  */
+    #footer {
+        padding: 50px 0 55px;
+    }
+    .footer-main p {
+        line-height: 22px;
+    }
+    .footer-social-icon {
+        margin-bottom: 30px;
+    }
+    .footer-details p {
+        line-height: 22px;
+    }
+    /* copyright-area media css start  */
+    .copyright-content p {
+        text-align: center;
+        line-height: 40px;
+    }
+    .footer-menu ul {
+        justify-content: center;
+    }
+    .footer-menu ol, ul {
+        padding-left: 0rem;
+    }
+    .footer-menu ul li a {
+        padding-left: 13px;
+    }
+}
+
+
+
+
+
+@media(width:575px){
+    .banner-content h1 {
+        font-size: 48px;
+        line-height: 49px;
+    }
+    .about-item {
+        padding-top: 35px;
+        padding-bottom: 35px;
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .testm-details i {
+        color: #fff;
+        font-size: 32px;
+        margin-left: 313px;
+    }
+    .video-content h3 {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    #video {
+        padding-top: 160px;
+        padding-bottom: 140px;
+    }
+    .footer-content {
+        padding-bottom: 25px;
+    }
+    .footer-box i {
+        color: #bdbdbd;
+        padding: 12px 56px;
+        margin: auto;
+    }
+}
